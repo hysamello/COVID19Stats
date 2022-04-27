@@ -1,3 +1,10 @@
 # Projeto_ATAD
 
-[![CodeFactor](https://www.codefactor.io/repository/github/rafa-99/projeto_atad/badge?s=0ccd79d783ce95e9e7822e3ca8763d25009f41bc)](https://www.codefactor.io/repository/github/rafa-99/projeto_atad)
+## Descripition
+
+Study of COVID-19 patients, in the beginning of pandemic. To be run in CMD.
+
+## Specifications
+- C to structures and algorithms
+- HTML for documentation purposes
+- Use of pointers and management of memory
